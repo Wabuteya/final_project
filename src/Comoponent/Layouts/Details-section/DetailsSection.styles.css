@@ -1,0 +1,43 @@
+.detail-section-container{
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.book-imag-container, .book-detail-contianer{
+    width: 50%;
+}
+
+.book-imag-container{
+    text-align: center;
+}
+
+.book-imag-container img{
+    height: 400px;
+    border: 1px solid #ddd;
+}
+
+.book-detail-contiane h1{
+    font-size: 2rem;
+}
+
+.book-detail-contiane p{
+    padding: 1rem 0;
+}
+
+.book-description{
+    line-height: 1.7rem;
+}
+
+.book-detail-contiane h3{
+     font-size: 1.5rem;
+     padding-top: 1rem;
+}
+
+
+
+

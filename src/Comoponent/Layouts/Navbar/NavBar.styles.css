@@ -1,0 +1,42 @@
+.NavBar-container{
+    position: absolute;
+    width: 100%;
+    top: 5%;
+    padding: 1rem 0;
+    top: 0;
+}
+
+
+.logo{
+    font-size: 1.5rem;
+    color: white;
+    text-decoration: none;
+}
+
+
+.nav-links{
+    color: white;
+    text-decoration: none;
+    font-size: 1.1rem;
+    padding-left: 20px;
+    transition: 0.2s ease-in;
+}
+
+
+.nav-links:hover{
+    color: orange;
+}
+
+
+.background-transparent{
+    background-color: transparent;
+}
+
+
+.background-dark{
+    background-color: #222;
+}
+
+.relative{
+    position: relative !important;
+}
